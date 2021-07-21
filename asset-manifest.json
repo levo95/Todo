@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/levo95/Todo/static/css/main.a617e044.chunk.css",
+    "main.js": "/levo95/Todo/static/js/main.f97efdd8.chunk.js",
+    "main.js.map": "/levo95/Todo/static/js/main.f97efdd8.chunk.js.map",
+    "runtime-main.js": "/levo95/Todo/static/js/runtime-main.71579801.js",
+    "runtime-main.js.map": "/levo95/Todo/static/js/runtime-main.71579801.js.map",
+    "static/js/2.32c84f47.chunk.js": "/levo95/Todo/static/js/2.32c84f47.chunk.js",
+    "static/js/2.32c84f47.chunk.js.map": "/levo95/Todo/static/js/2.32c84f47.chunk.js.map",
+    "static/js/3.9187633a.chunk.js": "/levo95/Todo/static/js/3.9187633a.chunk.js",
+    "static/js/3.9187633a.chunk.js.map": "/levo95/Todo/static/js/3.9187633a.chunk.js.map",
+    "index.html": "/levo95/Todo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/levo95/Todo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.32c84f47.chunk.js.LICENSE.txt": "/levo95/Todo/static/js/2.32c84f47.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/levo95/Todo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71579801.js",
+    "static/js/2.32c84f47.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f97efdd8.chunk.js"
+  ]
+}
